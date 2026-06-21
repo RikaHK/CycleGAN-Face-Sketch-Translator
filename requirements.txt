@@ -1,0 +1,12 @@
+flask
+numpy
+Pillow
+tensorflow
+matplotlib
+jupyter
+
+# Extra libraries commonly used by the notebooks
+transformers
+datasets
+torch
+diffusers
